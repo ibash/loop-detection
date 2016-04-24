@@ -1,0 +1,19 @@
+{
+  "name": "loop-detection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Islam Sharabash",
+  "license": "ISC",
+  "dependencies": {
+    "recast": "^0.11.5",
+    "source-map": "^0.5.5"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
